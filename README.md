@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-marian
-- 👀 I’m interested in IA, neural networks, JAVA, JS, Python coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in microservices, security, IA, neural networks.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on interesting project
 
 <!---
